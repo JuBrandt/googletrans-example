@@ -1,1 +1,1 @@
-# googletrans-example
+pip install googletrans
